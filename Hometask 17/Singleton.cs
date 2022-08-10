@@ -8,7 +8,7 @@ namespace App
 {
     public class Singleton
     {
-        private static Singleton _instance = null;
+        private static volatile Singleton _instance = null;
         private static readonly object _padlock = new object();
 
         private Singleton()
