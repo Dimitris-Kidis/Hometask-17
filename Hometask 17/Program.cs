@@ -2,8 +2,8 @@
 
 
 
-// 1. Singleton Implementation
-// 2. Simple Factory Implementation
+// 1. Singleton Implementation ✅
+// 2. Simple Factory Implementation ✅
 
 
 
